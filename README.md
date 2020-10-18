@@ -3,16 +3,16 @@
 
 I am a software developer who loves open source.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lockejan&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lockejan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true", width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lockejan&layout=compact&hide_border=true", width="325"/> <br>
+</p>
 
 ![](https://komarev.com/ghpvc/?username=lockejan)
 
 <!--
 **lockejan/lockejan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lockejan&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
