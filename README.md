@@ -1,7 +1,7 @@
 ### Hi there, I'm Jan 👋
 
 
-I am a software developer who loves open source.
+I am a software developer and a big fan of open source software.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lockejan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true", width="400"/>
