@@ -1,7 +1,4 @@
-### Hi there, I'm Jan 👋
-
-
-I am a big fan and sometimes even a contributer of open source software.
+### Hi there 👋
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lockejan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true", width="400"/>
